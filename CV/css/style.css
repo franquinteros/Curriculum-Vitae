@@ -1,13 +1,17 @@
-h1 { background-color: yellow;
+h1 { background-color: blue;
   border: 0cm;
-  
-
   }
 
 p {
     color: black;
     width: 500px;
     border: 1px solid black;
+  }
+
+h3 { background-color: blue;
+  width: 500px;
+  border: 1px solid black;
   };
+  
 
  
